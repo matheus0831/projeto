@@ -1,0 +1,14 @@
+nav{
+    margin: auto;
+    margin-left: 700px;
+  }
+  nav a{
+    padding-left: 20px;
+    font-size: 40px;
+    text-decoration: none;
+    color: white;
+  }
+  
+  nav a:hover{
+    color: #F8C8DC;
+  }

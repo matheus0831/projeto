@@ -1,0 +1,54 @@
+.fotos_integrantes{
+    position: absolute;
+    z-index: 2;
+    right: 5%;
+    width:90%;
+    height:500px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    top: 1820px;
+  }
+  .foto_integrante{
+    width:100%;
+    height:90%;
+  }
+  .foto_integrante img{
+    width:100%;
+    height: 100%;
+  }
+  .integrante_um{
+    width:30%;
+    height: 100%;
+    text-align: center;
+  }
+  .integrante_dois{
+    width:30%;
+    height: 100%;
+  }
+  .integrante_tres{
+    width:30%;
+    height: 100%;
+  }
+  .fotos_integrantes_um{
+    position: absolute;
+    z-index: 2;
+    right: 5%;
+    width:90%;
+    height:500px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    top: 2350px;
+  }
+  .fotos_integrantes_dois{
+    position: absolute;
+    z-index: 2;
+    right: 5%;
+    width:90%;
+    height:500px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    top: 2880px;
+  }

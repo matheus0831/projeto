@@ -1,0 +1,16 @@
+header{
+    background-color: #900BF5;
+    height: 120px;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: row;
+  }
+  /* Nav*/
+  .kepler{
+    width:20%;
+    height: 120px;
+  }
+  .kepler img{
+    width: 100%;
+    height: 100%;
+  }
